@@ -1,1 +1,2 @@
 hello friend
+git remote add origin https://github.com/cbbloxxxindore/abrepo.git
